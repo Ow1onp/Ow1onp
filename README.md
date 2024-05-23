@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to transform 
 ## 🧑‍💻 About Me
 - 🔭 Currently working on: **EasyChat**
 - 🌱 Learning all about: Artificial Intelligence, C#, and Algorithms
-- 👯 Looking to collaborate on: Open source projects that make the world a better place
 - 📫 How to reach me: [Contact me via 爱发电](https://afdian.net/a/Gakkiopl)
 
 ## 🚀 My Projects
