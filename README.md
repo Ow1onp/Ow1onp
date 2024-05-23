@@ -25,11 +25,6 @@ I love experimenting with different technologies! Here are some of my favorites:
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gakkiopl&show_icons=true&theme=radical)
 
-## 🏆 Fun Facts
-- 🎸 I play the guitar like a pro… in Guitar Hero.
-- 🌍 I speak 2 languages, including Chinese and English.
-- 🎮 When I'm not coding, you can find me conquering virtual worlds in my favorite video games.
-
 ## 🔗 Let's Connect
 - [爱发电](https://afdian.net/a/Gakkiopl)
 
