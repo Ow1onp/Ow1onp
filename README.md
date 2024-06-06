@@ -1,4 +1,4 @@
-# 🌟 Hello, World! I'm Gakkiopl 🌟
+# 🌟 Hello! I'm Gakkiopl 🌟
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to transform caffeine into code and ideas into reality. Here's a little bit about me:
 
