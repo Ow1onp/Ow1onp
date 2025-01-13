@@ -1,11 +1,11 @@
-# 🌟 Hello! I'm Gakkiopl 🌟
+# 🌟 Hello! I'm Ow1onp 🌟
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to transform caffeine into code and ideas into reality. Here's a little bit about me:
 
 ## 🧑‍💻 About Me
 - 🔭 Currently working on: **EasyChat**
 - 🌱 Learning all about: Artificial Intelligence, C#, and Algorithms
-- 📫 How to reach me: Mail:Gakkiopl@qq.com
+- 📫 How to reach me: Mail:Ow1onp@Outlook.com
 
 ## 🚀 My Projects
 Here are a few cool projects I've been working on:
