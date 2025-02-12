@@ -24,6 +24,6 @@ I love experimenting with different technologies! Here are some of my favorites:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ow1onpl&show_icons=true&theme=radical)
 
 ## 🔗 Let's Connect
-- [爱发电](https://afdian.net/a/Gakkiopl)
+- [爱发电](https://afdian.com/a/Gakkiopl)
 
 Thanks for stopping by! Happy coding! 🚀
