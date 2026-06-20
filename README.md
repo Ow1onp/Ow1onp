@@ -1,29 +1,67 @@
-# 🌟 Hello! I'm Ow1onp 🌟
+# ⚡ Ow1onp
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to transform caffeine into code and ideas into reality. Here's a little bit about me:
+> Unreal Engine C++ & AI/LLM developer — building tools at the intersection of game engines and large language models.
 
-## 🧑‍💻 About Me
-- 🔭 Currently working on: **EasyChat**
-- 🌱 Learning all about: Artificial Intelligence, C#, and Algorithms
-- 📫 How to reach me: Mail:Ow1onp@Outlook.com
+[](mailto:Ow1onp@Outlook.com)
+[](https://afdian.com/a/Gakkiopl)
 
-## 🚀 My Projects
-Here are a few cool projects I've been working on:
+---
 
-- **EasyChat**: A nifty tool that uses minimal memory to search and match answers, including images and web content.
-- **EasyChat Plugin for Unreal**: A plugin designed for communication with EasyChat within Unreal Engine.
+## 🧰 Tech Stack
 
-## 🌐 My Tech Stack
-I love experimenting with different technologies! Here are some of my favorites:
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Python, C++ |
+| **Game Engines** | Unreal Engine |
+| **AI / LLM** | DeepSeek, RWKV, Stable Diffusion, AgentScope, Ollama, llama.cpp |
+| **Backend** | FastAPI, Feishu Bot, Aliyun ECS, systemd |
+| **DevOps** | Docker, Git, GitHub Actions, CI/CD |
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- **Frameworks/Engines**: ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unreal-engine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ow1onpl&show_icons=true&theme=radical)
+## 🚀 Featured Projects
 
-## 🔗 Let's Connect
-- [爱发电](https://afdian.com/a/Gakkiopl)
+### [hermes-agent-skills](https://github.com/Ow1onp/hermes-agent-skills)
 
-Thanks for stopping by! Happy coding! 🚀
+Production-grade skills for [Hermes Agent](https://github.com/NousResearch/hermes-agent) — self-evolving, persona-aware, slash-command native.
+
+[](https://github.com/Ow1onp/hermes-agent-skills/blob/main/LICENSE)
+[](https://github.com/Ow1onp/hermes-agent-skills)
+[](https://github.com/Ow1onp/hermes-agent-skills)
+
+- **8 workflow skills** covering Define → Build → Verify → Ship → Evolve
+- **Self-evolution engine** with 5-dimension health scoring
+- **Persona-aware coding** driven by `SOUL.md`
+- **Domain agents** (Python Pro, DevOps SRE) with plug-and-play dispatch
+- Built-in `hermes-skill` CLI for skill creation and validation
+
+---
+
+## 🏗️ What I'm Building
+
+- **SdiffusionUE** — Stable Diffusion image generation plugin for Unreal Engine
+- **Local LLM Gateway** — Universal local LLM gateway for Unreal Engine (Ollama / llama.cpp / RWKV-7 multi-backend)
+- **AI COO** — AI-powered operational management system
+- **Supply Chain Agent** — Intelligent supply chain analysis and orchestration
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ow1onp&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ow1onp&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🔗 Links
+
+- 📧 **Email**: [Ow1onp@Outlook.com](mailto:Ow1onp@Outlook.com)
+- ❤️ **爱发电**: [afdian.com/a/Gakkiopl](https://afdian.com/a/Gakkiopl)
+
+---
+
+<p align="center">
+  <i>Building the bridge between game worlds and AI.</i>
+</p>
